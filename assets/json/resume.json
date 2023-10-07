@@ -1,27 +1,4 @@
 {
-  "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
-    "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
-    "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
-    },
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
-      }
-    ]
-  },
   "work": [
     {
       "name": "Institute for Advanced Study, Princeton University",
@@ -35,19 +12,41 @@
       ]
     }
   ],
+  "teaching": [],
   "volunteer": [],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
+      "institution": "Universitetet i Stavanger",
+      "url": "https://www.uis.no/",
+      "area": "Computer science",
       "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
+      "startDate": "2022",
+      "endDate": "",
+      "summary": "Research in the field of conversational information access and user simulation",
       "score": "",
-      "courses": [
-        "Theory of Relativity"
-      ]
+      "courses": []
+    },
+    {
+      "institution": "Ecole Nationale Supérieure d'Ingénieurs Sud Alsace",
+      "url": "",
+      "area": "Software engineering",
+      "studyType": "Engineer degree",
+      "startDate": "2016",
+      "endDate": "2019",
+      "summary": "Knowledge in software engineering, architecture, and modeling",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Institut Universitaire de Technologie du Mans",
+      "url": "https://iut.univ-lemans.fr/",
+      "area": "Instrumentation and measurement",
+      "studyType": "Technician degree",
+      "startDate": "2014",
+      "endDate": "2016",
+      "summary": "Knowledge in fundamental physics, measuring chain, engineering techniques and digital signal processing",
+      "score": "",
+      "courses": []
     }
   ],
   "awards": [
@@ -63,7 +62,7 @@
   "skills": [],
   "languages": [
     {
-      "language": "German",
+      "language": "French",
       "fluency": "Native speaker"
     },
     {
