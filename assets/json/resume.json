@@ -1,25 +1,24 @@
 {
-  "work": [
+  "academic interests": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": [
-        "Relativity"
-      ]
+      "name": "Information Retrieval"
+    },
+    {
+      "name": "Conversational Information Access"
+    },
+    {
+      "name": "User Simulation"
+    },
+    {
+      "name": "Natural Language Processing"
     }
   ],
-  "teaching": [],
-  "volunteer": [],
   "education": [
     {
       "institution": "Universitetet i Stavanger",
       "url": "https://www.uis.no/",
       "area": "Computer science",
-      "studyType": "PhD",
+      "studyType": "Doctor of Philosophy",
       "startDate": "2022",
       "endDate": "",
       "summary": "Research in the field of conversational information access and user simulation",
@@ -49,16 +48,62 @@
       "courses": []
     }
   ],
-  "awards": [
+  "work": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "name": "MDPI",
+      "position": "Research & Development Engineer",
+      "startDate": "2019-08",
+      "endDate": "2022-01",
+      "summary": "Working on projects involving data related to scientific literature",
+      "highlights": [
+        "Machine Learning",
+        "Natural Language Processing (NLP)",
+        "Data analysis",
+        "Network science, social network analysis"
+      ]
+    },
+    {
+      "name": "MDPI",
+      "position": "Engineering Trainee in data analysis",
+      "startDate": "2019-02",
+      "endDate": "2019-07",
+      "summary": "Software programming and engineering for websites and server applications",
+      "highlights": [
+        "Data visualization: D3.js",
+        "Natural Language Processing (NLP)",
+        "Information retrieval: word2vec, doc2vec"
+      ]
+    },
+    {
+      "name": "Syentys",
+      "position": "Intern",
+      "startDate": "2017-07",
+      "endDate": "2017-07",
+      "summary": "Discovery of the proceedings of an ERP project; Data migration",
+      "highlights": []
+    },
+    {
+      "name": "Jan Długosz University",
+      "position": "Intern",
+      "startDate": "2016-04",
+      "endDate": "2016-06",
+      "summary": "Study of optical glass, bio-glass and crystals using infrared techniques.",
+      "highlights": []
     }
   ],
-  "certificates": [],
-  "publications": [],
+  "teaching": [
+    {
+      "name": "Universitetet i Stavanger",
+      "position": "Teaching assistant",
+      "semesters": [
+        "Fall 2022",
+        "Fall 2023"
+      ],
+      "courses": [
+        "DAT640 - Information Retrieval and Text Mining"
+      ]
+    }
+  ],
   "skills": [],
   "languages": [
     {
@@ -70,7 +115,37 @@
       "fluency": "Fluent"
     }
   ],
-  "interests": [],
+  "volunteer": [
+    {
+      "name": "Brodd Handbåll",
+      "position": "Handball Coach",
+      "startDate": "2022",
+      "summary": "",
+      "highlights": [
+        "Practice planning",
+        "Team management"
+      ]
+    },
+    {
+      "name": "Fondation La main à la pâte",
+      "position": "Educational support",
+      "startDate": "2018-03",
+      "endDate": "2018-06",
+      "summary": "Support a primary school teacher for science classes",
+      "highlights": [
+        "Lesson preparation",
+        "Experiment preparation and supervision"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "3rd place \"Innovons ensemble\" contest",
+      "date": "2018-03",
+      "awarder": "Alsace Tech",
+      "summary": "The \"Innovons Ensemble\" contest focuses on guiding participants in developing innovative business projects from inception to execution, promoting interdisciplinary teamwork, and culminating in the creation of a comprehensive business plan."
+    }
+  ],
   "references": [],
   "projects": []
 }
