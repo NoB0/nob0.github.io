@@ -64,11 +64,12 @@
     },
     {
       "name": "MDPI",
-      "position": "Engineering Trainee in data analysis",
+      "position": "Engineering Trainee",
       "startDate": "2019-02",
       "endDate": "2019-07",
       "summary": "Software programming and engineering for websites and server applications",
       "highlights": [
+        "Data analysis",
         "Data visualization: D3.js",
         "Natural Language Processing (NLP)",
         "Information retrieval: word2vec, doc2vec"
@@ -94,7 +95,7 @@
   "teaching": [
     {
       "name": "Universitetet i Stavanger",
-      "position": "Teaching assistant",
+      "position": "Teaching Assistant",
       "semesters": [
         "Fall 2022",
         "Fall 2023"
@@ -128,7 +129,7 @@
     },
     {
       "name": "Fondation La main à la pâte",
-      "position": "Educational support",
+      "position": "Educational Support",
       "startDate": "2018-03",
       "endDate": "2018-06",
       "summary": "Support a primary school teacher for science classes",
