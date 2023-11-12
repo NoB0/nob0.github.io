@@ -28,7 +28,7 @@
     {
       "institution": "Ecole Nationale Supérieure d'Ingénieurs Sud Alsace",
       "url": "",
-      "area": "Software engineering",
+      "area": "Computer science",
       "studyType": "Engineer degree",
       "startDate": "2016",
       "endDate": "2019",
@@ -46,6 +46,19 @@
       "summary": "Knowledge in fundamental physics, measuring chain, engineering techniques and digital signal processing",
       "score": "",
       "courses": []
+    }
+  ],
+  "teaching": [
+    {
+      "name": "Universitetet i Stavanger",
+      "position": "Teaching Assistant",
+      "semesters": [
+        "Fall 2022",
+        "Fall 2023"
+      ],
+      "courses": [
+        "DAT640 - Information Retrieval and Text Mining"
+      ]
     }
   ],
   "work": [
@@ -90,19 +103,6 @@
       "endDate": "2016-06",
       "summary": "Study of optical glass, bio-glass and crystals using infrared techniques.",
       "highlights": []
-    }
-  ],
-  "teaching": [
-    {
-      "name": "Universitetet i Stavanger",
-      "position": "Teaching Assistant",
-      "semesters": [
-        "Fall 2022",
-        "Fall 2023"
-      ],
-      "courses": [
-        "DAT640 - Information Retrieval and Text Mining"
-      ]
     }
   ],
   "skills": [],
