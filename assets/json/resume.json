@@ -118,7 +118,7 @@
   ],
   "volunteer": [
     {
-      "name": "Brodd Handbåll",
+      "organization": "Brodd Handbåll",
       "position": "Handball Coach",
       "startDate": "2022",
       "summary": "",
@@ -128,7 +128,14 @@
       ]
     },
     {
-      "name": "Fondation La main à la pâte",
+      "organization": "ECIR 2022",
+      "position": "Student Volunteer",
+      "startDate": "2022-03",
+      "endDate": "2022-04",
+      "highlights": []
+    },
+    {
+      "organization": "Fondation La main à la pâte",
       "position": "Educational Support",
       "startDate": "2018-03",
       "endDate": "2018-06",

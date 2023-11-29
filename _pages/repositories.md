@@ -7,7 +7,7 @@ nav: true
 nav_order: 3
 ---
 
-This page contains a list of collaborative repositories in which I am/was involved in the development.  
+This page contains a list of selected collaborative repositories in which I am/was involved in the development.  
 More information is available on my [GitHub profile](https://github.com/NoB0).
 
 {% if site.data.repositories.github_repos %}
