@@ -15,7 +15,7 @@
   ],
   "education": [
     {
-      "institution": "Universitetet i Stavanger",
+      "institution": "University of Stavanger",
       "url": "https://www.uis.no/",
       "area": "Computer science",
       "studyType": "Doctor of Philosophy",
@@ -37,7 +37,7 @@
       "courses": []
     },
     {
-      "institution": "Institut Universitaire de Technologie du Mans",
+      "institution": "Le Mans University Institute of Technology",
       "url": "https://iut.univ-lemans.fr/",
       "area": "Instrumentation and measurement",
       "studyType": "Technician degree",
@@ -50,7 +50,7 @@
   ],
   "teaching": [
     {
-      "name": "Universitetet i Stavanger",
+      "name": "University of Stavanger",
       "position": "Teaching Assistant",
       "semesters": [
         "Fall 2022",
@@ -58,6 +58,16 @@
       ],
       "courses": [
         "DAT640 - Information Retrieval and Text Mining"
+      ]
+    },
+    {
+      "name": "University of Stavanger",
+      "position": "Advisor for Master's thesis",
+      "semesters": [
+        "Spring 2023"
+      ],
+      "courses": [
+        "Master's thesis on fairness in information retrieval"
       ]
     }
   ],
