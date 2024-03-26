@@ -48,29 +48,6 @@
       "courses": []
     }
   ],
-  "teaching": [
-    {
-      "name": "University of Stavanger",
-      "position": "Teaching Assistant",
-      "semesters": [
-        "Fall 2022",
-        "Fall 2023"
-      ],
-      "courses": [
-        "DAT640 - Information Retrieval and Text Mining"
-      ]
-    },
-    {
-      "name": "University of Stavanger",
-      "position": "Advisor for Master's thesis",
-      "semesters": [
-        "Spring 2023"
-      ],
-      "courses": [
-        "Master's thesis on fairness in information retrieval"
-      ]
-    }
-  ],
   "work": [
     {
       "name": "MDPI",
@@ -115,17 +92,56 @@
       "highlights": []
     }
   ],
-  "skills": [],
-  "languages": [
+  "teaching": [
     {
-      "language": "French",
-      "fluency": "Native speaker"
+      "name": "University of Stavanger",
+      "position": "Teaching Assistant",
+      "semesters": [
+        "Fall 2022",
+        "Fall 2023"
+      ],
+      "courses": [
+        "DAT640 - Information Retrieval and Text Mining"
+      ]
     },
     {
-      "language": "English",
-      "fluency": "Fluent"
+      "name": "University of Stavanger",
+      "position": "Advisor for Master's thesis",
+      "semesters": [
+        "Spring 2023"
+      ],
+      "courses": [
+        "Master's thesis on fairness in information retrieval"
+      ]
+    },
+    {
+      "name": "University of Stavanger",
+      "position": "Advisor for Bachelor's thesis",
+      "semesters": [
+        "Spring 2024"
+      ],
+      "courses": [
+        "Bachelor's thesis on conversational recommender systems"
+      ]
     }
   ],
+  "services": [
+    {
+      "year": "2024",
+      "activities": [
+        "Member of the PC for SIGIR '24",
+        "Member of the Resource and Reproducibility PC for SIGIR '24",
+        "Member of the PC for CUI '24"
+      ]
+    },
+    {
+      "year": "2023",
+      "activities": [
+        "Member of WebConf'23 \"Artifacts available\" review committee"
+      ]
+    }
+  ],
+  "skills": [],
   "volunteer": [
     {
       "organization": "Brodd Handbåll",
@@ -156,14 +172,25 @@
       ]
     }
   ],
+  "references": [],
+  "projects": [],
   "awards": [
     {
       "title": "3rd place \"Innovons ensemble\" contest",
       "date": "2018-03",
       "awarder": "Alsace Tech",
-      "summary": "The \"Innovons Ensemble\" contest focuses on guiding participants in developing innovative business projects from inception to execution, promoting interdisciplinary teamwork, and culminating in the creation of a comprehensive business plan."
+      "summary": "The \"Innovons Ensemble\" contest focuses on guiding participants in developing innovative business projects from inception to execution, promoting interdisciplinary teamwork, and culminating in the creation of a comprehensive business plan.",
+      "url": "https://www.alsacetech.org/innovez-en-equipes-pluridisciplinaires/"
     }
   ],
-  "references": [],
-  "projects": []
+  "languages": [
+    {
+      "language": "French",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Fluent"
+    }
+  ]
 }
