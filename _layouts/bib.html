@@ -133,6 +133,12 @@
       {{ entry.note | strip }}
     </div>
 
+    {%- if entry.award -%}
+      <div class="award">
+        &#127941; {{entry.award}}
+      </div>
+      {%- endif -%}
+
     <!-- Links/Buttons -->
     {%- if entry.abbr != "Upcoming" %}
     <div class="links">
