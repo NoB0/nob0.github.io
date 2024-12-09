@@ -15,7 +15,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am currently a PhD student in the [IAI group](https://iai.group) at the University of Stavanger, supervised by Prof. [Krisztian Balog](https://krisztianbalog.com). 
+I am currently a PhD student in the [IAI group](https://iai.group) at the University of Stavanger, supervised by Prof. [Krisztian Balog](https://krisztianbalog.com). Since November 2024, I am visiting the [TIMAN research group](https://timan.cs.illinois.edu/ir/about.html) at the University of Illinois at Urbana-Champaign, supervised by Prof. [ChengXiang Zhai](http://czhai.cs.illinois.edu/).
 My main research interests are user simulation, conversational information access, and information retrieval. I am always open for discussion about these topics, so feel free to contact me.
 
 In the past, I worked as a research and development engineer for MDPI. In this role, I had the chance to participate in research projects, some involving natural language processing, language modelling and social network analysis.
