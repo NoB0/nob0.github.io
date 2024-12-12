@@ -180,6 +180,13 @@
   "projects": [],
   "awards": [
     {
+      "title": "Outstanding Reviewer Award",
+      "date": "2024-12",
+      "awarder": "2024 ACM SIGIR Conference on Research and Development in Information Retrieval in the Asia Pacific Region",
+      "summary": "",
+      "url": "#awards"
+    },
+    {
       "title": "Best Paper Honorable Mention",
       "date": "2024-07",
       "awarder": "2024 ACM SIGIR International Conference on Theory of Information Retrieval",
