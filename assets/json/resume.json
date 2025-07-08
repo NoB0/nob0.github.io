@@ -20,7 +20,7 @@
       "area": "Computer science",
       "studyType": "Doctor of Philosophy",
       "startDate": "2022",
-      "endDate": "",
+      "endDate": "2025",
       "summary": "Research in the field of conversational information access and user simulation",
       "score": "",
       "courses": []
@@ -49,6 +49,17 @@
     }
   ],
   "work": [
+    {
+      "name": "TH Köln",
+      "position": "Postdoctoral Researcher",
+      "startDate": "2025-07",
+      "endDate": "",
+      "summary": "Working on user simulation and conversational information access",
+      "highlights": [
+        "User simulation",
+        "Conversational information access"
+      ]
+    },
     {
       "name": "MDPI",
       "position": "Research & Development Engineer",
